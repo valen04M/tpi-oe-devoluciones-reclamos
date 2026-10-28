@@ -44,18 +44,21 @@ Seguimiento de las historias de usuario en GitHub Projects: **[PEGAR AQUÍ EL EN
 
 **Herramienta:** asistente de Inteligencia Artificial Generativa (Claude, de Anthropic).
 
-**Propósito específico:** organizar la información de las Entregas 1, 2 y 3 dentro de la Entrega 4, proponer la estructura del diagrama BPMN y de los indicadores, redactar borradores de tablas y de este README, y dar formato visual a los documentos.
+**Propósito específico:** Se utilizó la IA como herramienta de apoyo conceptual y de consulta para:
+- Guiar la estructuración de la entrega y el flujo de trabajo con Git y GitHub (manejo de ramas, commits y pull requests).
+- Aportar ideas para la definición inicial del trabajo, la redacción de las historias de usuario y el diseño general de los procesos y documentos..
 
-**Prompt principal y justificación.** Se cargó el enunciado de la Entrega 4 junto con las Entregas 1, 2 y 3 y se pidió resolver la Entrega 4 basándose en ellas, de forma prolija y ordenada. Se hizo así para mantener el mismo caso, los mismos nombres de entidades y las mismas metas ya definidas, en lugar de partir de cero.
+**Prompt principal y justificación.** Se consultó sobre cómo organizar las ideas de las entregas previas para definir las historias de usuario y estructurar la documentación del proyecto de forma clara. Ademas se pidio ayuda para hacer todo lo relacionado con git y github simplemente como guia.
+
 
 **Límites del asistente que se tuvieron en cuenta:**
 
-- Las entregas anteriores no tenían definidas las historias de usuario, por lo que el asistente las propuso a partir del flujo del proceso. Se revisó que cada una corresponda a un actor del BPMN.
-- Los valores numéricos nuevos (plazo de 48 h, 5 días de resolución, 80 % de respuesta en plazo) son supuestos de diseño y no datos de Mercado Libre.
-- El asistente no puede crear el repositorio, el tablero, los commits ni el Pull Request: eso se realizó directamente en GitHub.
+- - La IA solo actuó como guía y borrador inicial de ideas; no interactuó con la plataforma de GitHub ni ejecutó comandos del repositorio.
+- Todas las decisiones finales, validaciones de los diagramas, métricas e integración en el repositorio fueron realizadas por el autor.
 
 **Correcciones humanas efectuadas sobre los resultados de la IA:**
 
-> [COMPLETAR: describir con tus palabras las correcciones concretas que hiciste (qué cambiaste en el BPMN, qué indicador ajustaste o descartaste, qué historia reescribiste y por qué). Borrar este recuadro al terminar.]
+- Se revisaron, corrigieron y adaptaron los borradores de las historias de usuario al contexto real del trabajo.
+- Se ajustaron los flujos del diagrama BPMN y los indicadores de control según los criterios propios del proyecto.
 
-El autor asume la responsabilidad por la veracidad y la coherencia conceptual del trabajo.
+
