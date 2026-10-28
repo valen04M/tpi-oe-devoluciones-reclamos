@@ -21,7 +21,7 @@ El comprador registra un reclamo desde su cuenta y el sistema recupera automáti
 
 ## Tablero de gestión
 
-Seguimiento de las historias de usuario en GitHub Projects: **[PEGAR AQUÍ EL ENLACE AL TABLERO]**
+Seguimiento de las historias de usuario en GitHub Projects: https://github.com/users/valen04M/projects/1/views/1
 
 ## Contenido de la documentación
 
